@@ -2,7 +2,7 @@
 ## Hello 👋
 Eternal Technology student
 <br/> I'm a FullStack Developer :computer:
-<br/>:rocket:  &nbsp; I currently work at **Personal Net**
+<br/>:rocket:  &nbsp; I currently work at **Franq Openbank**
 <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using Angular and React
 <br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox
 <br/> :computer: &nbsp; My stack: Angular, PHP, ReactJS, Node.js, React Native & Typescript
