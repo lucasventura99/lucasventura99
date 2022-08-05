@@ -1,8 +1,7 @@
 # Lucas Ventura Delfiol
 ## Hello 👋
 Eternal Technology student
-<br/> I'm a FullStack Developer :computer:
-<br/>:rocket:  &nbsp; I currently work at **Franq Openbank**
+<br/> I'm a Python Developer :computer:
 <br/> :purple_heart: &nbsp; Seeking to collaborate with projects using Python and Node
 <br/> :computer: &nbsp; My stack: Python and Node.js.
 <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-LucasVentura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ventura-delfiol/)](https://www.linkedin.com/in/lucas-ventura-delfiol/) 
