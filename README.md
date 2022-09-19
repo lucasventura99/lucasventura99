@@ -1,6 +1,5 @@
 # Lucas Ventura Delfiol
 ## Hello 👋
-Eternal Technology student
 <br/> I'm a Python Developer :computer:
 <br/> :purple_heart: &nbsp; Seeking to collaborate with projects using Python and Node
 <br/> :computer: &nbsp; My stack: Python and Node.js.
